@@ -1,2 +1,2 @@
 # DATASETS_JITSDP
-JIT-SDP Datasets
+Opensource datasets used in JIT-SDP study
